@@ -34,4 +34,4 @@ Powered by Marshmallow.Projects
 ========================================
 """)
 
-print(f"[Marshmallow.Projects] Total size of '{directory}': {human_readable_size(size)}")
+print(f"Total size of '{directory}': {human_readable_size(size)}")
